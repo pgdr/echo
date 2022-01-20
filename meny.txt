@@ -6,6 +6,7 @@ hamburger
 vegetarlasagne
 taco
 fisk
+burritos
 
 # dessert
 
