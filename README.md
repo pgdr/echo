@@ -1,4 +1,4 @@
-# hovedretter
+# Hovedretter
 
 1. egg
 1. pizza
@@ -8,12 +8,12 @@
 1. fisk
 1. burritos
 
-# dessert
+# Dessert
 
 1. iskrem med vanilje- og sjokoladesmak
 1. tiramisu
 
-# drikke
+# Drikke
 
 1. øl
 1. vin
