@@ -5,3 +5,12 @@ hamburger
 lasagne
 taco
 fisk
+
+# dessert
+
+is
+
+# drikke
+
+øl
+vin
