@@ -9,7 +9,7 @@ fisk
 
 # dessert
 
-iskrem
+iskrem med vaniljesmak
 tiramisu
 
 # drikke
