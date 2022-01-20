@@ -8,7 +8,7 @@ fisk
 
 # dessert
 
-is
+iskrem
 tiramisu
 
 # drikke
