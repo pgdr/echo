@@ -2,7 +2,7 @@
 
 pizza
 hamburger
-lasagne
+vegetarlasagne
 taco
 fisk
 
